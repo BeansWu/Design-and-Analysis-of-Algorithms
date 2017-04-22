@@ -4,7 +4,8 @@ import java.util.Arrays;
 
 import algorithm.sort.RandomArrayUtil;
 /**
- * @Description: TODO 判断一个集合中是否有重复元素
+ * @Description:
+ * 判断一个集合中是否有重复元素
  * @author Andrew
  * @date 2017年3月31日
  */
@@ -27,5 +28,4 @@ public class FindTheSameElement {
 		}
 		//时间复杂度为 O(n2)
 	}
-
 }
